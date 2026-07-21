@@ -245,7 +245,7 @@ git status --short
 git log --oneline -3
 ```
 
-Expected: no status output and four commits: design spec, implementation plan, atlas artwork, and profile README.
+Expected: no status output. Recent history includes the design spec, implementation plan, atlas artwork, and profile README commits.
 
 - [ ] **Step 2: Confirm GitHub authentication and remote absence**
 
